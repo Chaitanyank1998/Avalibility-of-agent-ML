@@ -1,0 +1,16 @@
+is_available,role,agent,since
+yes,spanish speaker,agent1,5
+yes,sales,agent2,2
+yes,support,agent3,12
+yes,spanish speaker,agent4,4
+yes,sales,agent5,5
+yes,support,agent6,6
+yes,spanish speaker,agent7,7
+yes,sales,agent8,4
+yes,support,agent9,3
+no,spanish speaker,agent10,0
+no,sales,agent11,0
+no,support,agent12,0
+no,spanish speaker,agent13,0
+no,sales,agent14,0
+no,support,agent15,0
